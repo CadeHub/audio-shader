@@ -1,0 +1,10 @@
+flake8
+autoflake
+isort
+black
+autopep8
+
+wheel
+pysimplegui
+matplotlib
+pyaudio
