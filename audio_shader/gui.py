@@ -4,7 +4,7 @@ from listener import Listener
 
 
 class GUI:
-    WINDOW_VARS = {"window": False, "Stream": False, "audioData": np.array([])}  # reference to window
+    WINDOW_VARS = {"window": False, "stream": False, "audioData": np.array([])}  # reference to window
     TIMEOUT = 10
 
     def __init__(self):
