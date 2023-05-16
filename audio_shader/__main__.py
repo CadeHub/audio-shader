@@ -11,7 +11,7 @@ myapp = App()
 #
 # here are method calls to the window manager class
 #
-myapp.master.title("My Do-Nothing Application")
+myapp.master.title("Listener")
 myapp.master.maxsize(1000, 800)
 
 # start the program
